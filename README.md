@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tejas.NM and Enthusiastic BCA graduate specializing in Cloud Computing, Identity & Access Management (IAM), and Cybersecurity, currently pursuing a Master of Computer Applications (MCA) from Bangalore University. Proficient in web development and AWS cloud services, with a strong foundation in designing secure, scalable, and efficient technology solutions. A fast learner and effective team player with excellent problem-solving abilities, seeking to apply technical expertise and contribute to a dynamic, growth-oriented organization while continuously enhancing professional skills.</p>
+<p align="left">Enthusiastic BCA graduate specializing in Cloud Computing, Identity & Access Management (IAM), and Cybersecurity, currently pursuing a Master of Computer Applications (MCA) from Bangalore University. Proficient in web development and AWS cloud services, with a strong foundation in designing secure, scalable, and efficient technology solutions. A fast learner and effective team player with excellent problem-solving abilities, seeking to apply technical expertise and contribute to a dynamic, growth-oriented organization while continuously enhancing professional skills.</p>
 
 ###
 
